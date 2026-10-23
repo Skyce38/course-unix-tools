@@ -1,0 +1,23 @@
+{
+  "id": "unix-tools",
+  "name": "Unix Tools & Programming",
+  "thai": "เครื่องมือและการเขียนโปรแกรม Unix",
+  "short": "$_",
+  "repo": "course-unix-tools",
+  "code": "88624159",
+  "color": "#4e6478",
+  "tags": [
+    "Linux",
+    "Shell",
+    "Bash"
+  ],
+  "description": "คำสั่ง Unix, Shell Script, Redirection, Regex, sed และ awk",
+  "source": "โปรเจกต์ Unix Tools และบันทึกคลังเรียนเดิม",
+  "categories": [
+    "assignments",
+    "slides",
+    "summaries",
+    "tutoring",
+    "exams"
+  ]
+}
